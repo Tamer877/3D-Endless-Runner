@@ -1,5 +1,5 @@
 # 3D-Endless-Runner
-A running game developed with Unity.
+A run game developed with Unity.
 
 # 3D Endless Runner - System Architecture and Development Plan
 
