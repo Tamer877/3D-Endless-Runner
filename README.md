@@ -27,7 +27,7 @@ The layer where user data is stored securely in a relational manner.
 * **Users:** `User_ID`, `Username`, `PasswordHash`, `CreatedDate`
 * **PlayerStats:** `High Score`, `Total Gold`, `Total Diamonds`, `Matches Played`
 * **Inventory:** List of character/skin IDs owned by the player.
-* **Development Environment:** MS SQL Server
+* **Development Environment:** SQL Server
 
 ### 4. File Server (Asset & Patch Management)
 The static file server where 3D models (FBX), Asset Bundles, textures, and audio files are stored.
